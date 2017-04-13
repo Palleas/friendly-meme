@@ -1,3 +1,3 @@
 #!/bin/bash
 
-carthage bootstrap --platform ios,tvOS --no-use-binaries --verbose 
+carthage bootstrap --platform ios,tvOS --no-use-binaries --verbose --baked=potato
